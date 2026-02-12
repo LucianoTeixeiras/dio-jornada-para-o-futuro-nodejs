@@ -159,7 +159,7 @@
 ### Password Security
 - [ ] Exijo senhas fortes (validação)
 - [ ] Uso salt rounds adequado (10-12)
-- [ ] Nunca logo senhas
+- [ ] Nunca faço log de senhas
 - [ ] Implemento rate limiting em login
 
 ### Error Handling
